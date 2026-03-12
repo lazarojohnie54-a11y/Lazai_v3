@@ -1,4 +1,16 @@
 <!DOCTYPE html>
+<html>
+<head>
+<title>LazAI v3</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<h1>LazAI v3</h1>
+<p>AI yako iko live sasa.</p>
+
+</body>
+</html><!DOCTYPE html>
 <html lang="sw">
 <head>
 <meta charset="UTF-8">
