@@ -255,3 +255,5 @@ body.theme-black .sq.light{background:#2A2A2A;}
 .piece.p2{background:radial-gradient(circle at 35% 35%,#AACCFF,#2244CC);}
 .piece.king::after{content:'♛';font-size:11px;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:rgba(255,255,255,0.9);}
 .draft-btns{display:flex;gap:8px;margin-t
+</body>
+</html>
